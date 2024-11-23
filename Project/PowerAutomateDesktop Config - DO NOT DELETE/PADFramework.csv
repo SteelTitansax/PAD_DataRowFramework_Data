@@ -1,0 +1,28 @@
+Start Time,Workflow,Subflow,Action,Comment
+
+2024-11-23 18:11:53.552,PADFramework,Main,1,Workflow Starting
+2024-11-23 18:17:45.167,PADFramework,Main,1,Workflow Starting
+2024-11-23 18:17:55.864,PADFramework,Main,1,Workflow Starting
+2024-11-23 18:18:00.655,PADFramework,Main,20,NewStudentProcessing
+2024-11-23 18:18:09.379,PADFramework,Main,29,Student processed with result:System Exception - Couldn't populate the StudentID input field
+2024-11-23 18:18:09.692,PADFramework,Main,20,NewStudentProcessing
+2024-11-23 18:18:10.329,PADFramework,Main,29,Student processed with result:BusinessException - Student ID is empty
+2024-11-23 18:18:10.645,PADFramework,Main,20,NewStudentProcessing
+2024-11-23 18:18:20.764,PADFramework,Main,29,Student processed with result:System Exception - Couldn't populate the StudentID input field
+2024-11-23 18:18:21.066,PADFramework,Main,20,NewStudentProcessing
+2024-11-23 18:18:21.866,PADFramework,Main,29,Student processed with result:BusinessException - Student ID is not in the correct format
+2024-11-23 18:18:22.173,PADFramework,Main,20,NewStudentProcessing
+2024-11-23 18:18:32.243,PADFramework,Main,29,Student processed with result:System Exception - Couldn't populate the StudentID input field
+2024-11-23 18:18:32.814,PADFramework,Main,40,Workflow ending
+2024-11-23 21:00:55.914,PADFramework,Main,1,Workflow Starting
+2024-11-23 21:01:01.987,PADFramework,Main,20,NewStudentProcessing
+2024-11-23 21:02:37.960,PADFramework,Main,1,Workflow Starting
+2024-11-23 21:02:42.240,PADFramework,Main,20,NewStudentProcessing
+2024-11-23 21:02:50.092,PADFramework,Main,29,Student processed with result:System Exception - studentID input element couldn't be load
+2024-11-23 21:02:50.494,PADFramework,Main,20,NewStudentProcessing
+2024-11-23 21:02:51.312,PADFramework,Main,29,Student processed with result:BusinessException - Student ID is empty
+2024-11-23 21:02:51.676,PADFramework,Main,20,NewStudentProcessing
+2024-11-23 21:02:59.030,PADFramework,Main,29,Student processed with result:System Exception - studentID input element couldn't be load
+2024-11-23 21:02:59.378,PADFramework,Main,20,NewStudentProcessing
+2024-11-23 21:03:00.318,PADFramework,Main,29,Student processed with result:BusinessException - Student ID is not in the correct format
+2024-11-23 21:03:00.666,PADFramework,Main,20,NewStudentProcessing

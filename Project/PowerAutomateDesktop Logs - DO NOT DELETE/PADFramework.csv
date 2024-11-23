@@ -1,0 +1,76 @@
+Start Time,Workflow,Subflow,Action,Comment
+
+2024-11-23 18:11:53.552,PADFramework,Main,1,Workflow Starting
+2024-11-23 18:17:45.167,PADFramework,Main,1,Workflow Starting
+2024-11-23 18:17:55.864,PADFramework,Main,1,Workflow Starting
+2024-11-23 18:18:00.655,PADFramework,Main,20,NewStudentProcessing
+2024-11-23 18:18:09.379,PADFramework,Main,29,Student processed with result:System Exception - Couldn't populate the StudentID input field
+2024-11-23 18:18:09.692,PADFramework,Main,20,NewStudentProcessing
+2024-11-23 18:18:10.329,PADFramework,Main,29,Student processed with result:BusinessException - Student ID is empty
+2024-11-23 18:18:10.645,PADFramework,Main,20,NewStudentProcessing
+2024-11-23 18:18:20.764,PADFramework,Main,29,Student processed with result:System Exception - Couldn't populate the StudentID input field
+2024-11-23 18:18:21.066,PADFramework,Main,20,NewStudentProcessing
+2024-11-23 18:18:21.866,PADFramework,Main,29,Student processed with result:BusinessException - Student ID is not in the correct format
+2024-11-23 18:18:22.173,PADFramework,Main,20,NewStudentProcessing
+2024-11-23 18:18:32.243,PADFramework,Main,29,Student processed with result:System Exception - Couldn't populate the StudentID input field
+2024-11-23 18:18:32.814,PADFramework,Main,40,Workflow ending
+2024-11-23 21:00:55.914,PADFramework,Main,1,Workflow Starting
+2024-11-23 21:01:01.987,PADFramework,Main,20,NewStudentProcessing
+2024-11-23 21:02:37.960,PADFramework,Main,1,Workflow Starting
+2024-11-23 21:02:42.240,PADFramework,Main,20,NewStudentProcessing
+2024-11-23 21:02:50.092,PADFramework,Main,29,Student processed with result:System Exception - studentID input element couldn't be load
+2024-11-23 21:02:50.494,PADFramework,Main,20,NewStudentProcessing
+2024-11-23 21:02:51.312,PADFramework,Main,29,Student processed with result:BusinessException - Student ID is empty
+2024-11-23 21:02:51.676,PADFramework,Main,20,NewStudentProcessing
+2024-11-23 21:02:59.030,PADFramework,Main,29,Student processed with result:System Exception - studentID input element couldn't be load
+2024-11-23 21:02:59.378,PADFramework,Main,20,NewStudentProcessing
+2024-11-23 21:03:00.318,PADFramework,Main,29,Student processed with result:BusinessException - Student ID is not in the correct format
+2024-11-23 21:03:00.666,PADFramework,Main,20,NewStudentProcessing
+2024-11-23 21:27:57.963,PADFramework,Main,1,Workflow Starting
+2024-11-23 21:28:02.597,PADFramework,Main,20,NewStudentProcessing
+2024-11-23 21:28:10.761,PADFramework,Main,29,Student processed with result:System Exception - studentID input element couldn't be loaded
+2024-11-23 21:28:11.101,PADFramework,Main,20,NewStudentProcessing
+2024-11-23 21:28:11.927,PADFramework,Main,29,Student processed with result:BusinessException - Student ID is empty
+2024-11-23 21:28:12.312,PADFramework,Main,20,NewStudentProcessing
+2024-11-23 21:28:19.769,PADFramework,Main,29,Student processed with result:System Exception - studentID input element couldn't be loaded
+2024-11-23 21:28:20.154,PADFramework,Main,20,NewStudentProcessing
+2024-11-23 21:28:21.073,PADFramework,Main,29,Student processed with result:BusinessException - Student ID is not in the correct format
+2024-11-23 21:28:21.411,PADFramework,Main,20,NewStudentProcessing
+2024-11-23 21:28:28.796,PADFramework,Main,29,Student processed with result:System Exception - studentID input element couldn't be loaded
+2024-11-23 21:28:29.451,PADFramework,Main,40,Workflow ending
+2024-11-23 21:30:05.313,PADFramework,Main,1,Workflow Starting
+2024-11-23 21:30:09.781,PADFramework,Main,20,NewStudentProcessing
+2024-11-23 21:30:18.218,PADFramework,Main,29,Student processed with result:Success
+2024-11-23 21:30:18.580,PADFramework,Main,20,NewStudentProcessing
+2024-11-23 21:30:19.367,PADFramework,Main,29,Student processed with result:BusinessException - Student ID is empty
+2024-11-23 21:30:19.738,PADFramework,Main,20,NewStudentProcessing
+2024-11-23 21:30:27.517,PADFramework,Main,29,Student processed with result:Success
+2024-11-23 21:30:27.847,PADFramework,Main,20,NewStudentProcessing
+2024-11-23 21:30:28.850,PADFramework,Main,29,Student processed with result:BusinessException - Student ID is not in the correct format
+2024-11-23 21:30:29.183,PADFramework,Main,20,NewStudentProcessing
+2024-11-23 21:30:36.952,PADFramework,Main,29,Student processed with result:Success
+2024-11-23 21:30:37.592,PADFramework,Main,40,Workflow ending
+2024-11-23 21:38:17.454,PADFramework,Main,1,Workflow Starting
+2024-11-23 21:38:22.080,PADFramework,Main,20,NewStudentProcessing
+2024-11-23 21:38:30.600,PADFramework,Main,29,Student processed with result:Success
+2024-11-23 21:38:30.933,PADFramework,Main,20,NewStudentProcessing
+2024-11-23 21:38:31.728,PADFramework,Main,29,Student processed with result:BusinessException - Student ID is empty
+2024-11-23 21:38:32.104,PADFramework,Main,20,NewStudentProcessing
+2024-11-23 21:38:39.867,PADFramework,Main,29,Student processed with result:Success
+2024-11-23 21:38:40.237,PADFramework,Main,20,NewStudentProcessing
+2024-11-23 21:38:41.186,PADFramework,Main,29,Student processed with result:BusinessException - Student ID is not in the correct format
+2024-11-23 21:38:41.541,PADFramework,Main,20,NewStudentProcessing
+2024-11-23 21:38:49.344,PADFramework,Main,29,Student processed with result:Success
+2024-11-23 21:38:50.031,PADFramework,Main,40,Workflow ending
+2024-11-23 21:43:48.915,PADFramework,Main,1,Workflow Starting
+2024-11-23 21:43:54.121,PADFramework,Main,20,NewStudentProcessing
+2024-11-23 21:44:02.558,PADFramework,Main,29,Student processed with result:Success
+2024-11-23 21:44:02.948,PADFramework,Main,20,NewStudentProcessing
+2024-11-23 21:44:03.776,PADFramework,Main,29,Student processed with result:BusinessException - Student ID is empty
+2024-11-23 21:44:04.151,PADFramework,Main,20,NewStudentProcessing
+2024-11-23 21:44:11.883,PADFramework,Main,29,Student processed with result:Success
+2024-11-23 21:44:12.262,PADFramework,Main,20,NewStudentProcessing
+2024-11-23 21:44:13.218,PADFramework,Main,29,Student processed with result:BusinessException - Student ID is not in the correct format
+2024-11-23 21:44:13.593,PADFramework,Main,20,NewStudentProcessing
+2024-11-23 21:44:21.401,PADFramework,Main,29,Student processed with result:Success
+2024-11-23 21:44:22.233,PADFramework,Main,40,Workflow ending
